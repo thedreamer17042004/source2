@@ -22,7 +22,7 @@ import {
   template: `
     <div class="product-list-container">
       <header class="page-header">
-        <h1>Our Products</h1>
+        <h1>Our Products 1</h1>
         <p>Explore our wide selection of high-quality products</p>
       </header>
 
